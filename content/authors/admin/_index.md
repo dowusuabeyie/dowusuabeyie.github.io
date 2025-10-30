@@ -6,8 +6,8 @@ title: Dominic Owusu Abeyie
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Dominic
-last_name: Owusu Abeyie
+first_name: Owusu
+last_name: Abeyie
 
 # Pronouns (optional)
 pronouns: he/him
