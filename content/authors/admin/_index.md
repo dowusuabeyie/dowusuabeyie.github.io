@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Owusu Abeyie
+title: D. O. Abeyie
 
 # Name pronunciation (optional)
 name_pronunciation: ''
