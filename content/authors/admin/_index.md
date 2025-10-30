@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Dominic Owusu Abeyie
+title: Owusu Abeyie
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Owusu
-last_name: Abeyie
+first_name: Dominic
+last_name: Owusu Abeyie
 
 # Pronouns (optional)
 pronouns: he/him
